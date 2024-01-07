@@ -1,2 +1,5 @@
 .idea/
-
+*/bin/Debug/*/*
+*/obj/
+**/*.feature.cs
+SpecFlowCalculator.sln.DotSettings.user
